@@ -1,2 +1,2 @@
-# IMFP
-I Made First Project
+# INFP
+INteresting and Necessary my First Project
