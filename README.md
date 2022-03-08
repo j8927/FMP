@@ -1,2 +1,2 @@
 # FMP
-오늘 한일
+First Made Project
