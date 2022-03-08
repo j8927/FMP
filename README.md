@@ -1,2 +1,2 @@
 # INFP
-INteresting and Necessary my First Project
+Interesting and Necessary my First Project
